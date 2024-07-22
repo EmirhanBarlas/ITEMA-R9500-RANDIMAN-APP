@@ -1,0 +1,9 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.JAKAR" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here -->
+        <item name="colorPrimary">@color/white</item>
+        <item name="colorPrimaryDark">@color/black</item>
+        <item name="colorAccent">@color/purple_200</item>
+    </style>
+</resources>
